@@ -1,0 +1,11 @@
+{
+  "engines": {
+    "node": "20.x.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "flying-squid": "^1.11.0"
+  }
+}
